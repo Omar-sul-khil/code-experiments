@@ -5,16 +5,10 @@ A personal repository of small coding experiments and practice scripts for learn
 ##  Overview
 This repository contains short pieces of code written to:
 - Test programming concepts  
-- Experiment with different languages and libraries  
-- Strengthen problem-solving and logical thinking  
-
 Each file or folder may cover a unique idea, algorithm, or simple project.
-
 ##  Technologies
 Currently exploring and coding with:
 - **Java**
-
-
 ##  Purpose
 The goal of this repository is continuous learning — writing code daily, experimenting freely, and documenting progress through practice.
 
